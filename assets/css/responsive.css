@@ -297,11 +297,6 @@
 
 }
 
-@media (max-height: 850px) {
-    .home .h-100vh {
-        height: auto !important;
-    }
-}
 
 @media (max-width: 767px) {
     .project-details-info{
