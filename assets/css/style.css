@@ -1200,9 +1200,6 @@ select:focus {
   font-weight: 400;
   color: #fff;
 }
-/* .home .h-100vh{
-  padding: 100px 0px 100px;
-} */
 .scroll_down {
   position: absolute;
   bottom: 5vh;
